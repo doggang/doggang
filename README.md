@@ -33,27 +33,26 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogGang&layout=compact)](https://github.com/DogGang/github-readme-stats)
 
 <h2>Activity</h2>
-<hr>
-<h3 background-color:"fff5b1";>2019년도</h3>
+<h3 "background-color:fff5b1";>2019년도</h3>
 🏫 한림대학교 소프트웨어융합대학 입학.<br>
 💂‍♂️ 171 학군단 ROTC 사전 합격.<br>
 🖥️ 소프트웨어융합대학 학술동아리 씨애랑 입부.<br>
 🎸 밴드 중앙동아리 CODA 입부.<br>
 🎸 CODA 우수동아리 경진대회 은상<br>
 
-  <h3 background-color:"fff5b1";>2020년도</h3>
+  <h3 "background-color:fff5b1";>2020년도</h3>
 💂‍♂️ 기초군사훈련 수료.<br>
 🎸 밴드 중앙동아리 CODA 서기 & 베이스 파트장.<br>
 🎸 CODA 우수동아리 경진대회 동상<br>
 
-  <h3 background-color:"fff5b1";>2021년도</h3>
+  <h3 "background-color:fff5b1";>2021년도</h3>
 💂‍♂️ 171 학군단 입단 & 상반기 2중대장 후보생 & 하반기 인사과장 후보생. <br>
 💂‍♂️ 하계 전투지휘자 훈련 수료.<br>
 🎸 밴드 중앙동아리 CODA 부회장 & 회장.<br>
 🎸 CODA 우수동아리 경진대회 동상<br>
 🥈 씨애랑 소프트웨어전시회 2등.<br>
 
-  <h3 background-color:"fff5b1";>2022년도</h3>
+  <h3 "background-color:fff5b1";>2022년도</h3>
 💂‍♂️ 하계 야전지휘자 훈련 수료.<br>
 🎞️ 한림대학교 제38대 동아리연합회 사무국장.<br>
 🖥️ 씨애랑 웹개발 Tag팀 교육 부팀장.<br>
