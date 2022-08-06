@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DogGang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20my%20github%20:%29&descAlignY=57&descAlign=62)
 <br>
 
-<h1>Hi, I am studying Front-End.</h1>
+<h1>Hi, I'm little front-end developer.</h1>
 <h2>How to reach me</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(rlaehgusqp@gmail.com)</br>
-![Instagram](https://img.shields.io/badge/dh_d0hyun-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/s_zzz.ko/)</br>
+![Instagram](https://img.shields.io/badge/dh_d0hyun-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/dh_d0hyun/)</br>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) `KakaoTalk_ID: rlaehgusqp`</br>
 
 <div align=center><h1>📚 STACKS</h1></div>
