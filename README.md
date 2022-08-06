@@ -32,20 +32,24 @@
 ![DogGang's github stats](https://github-readme-stats.vercel.app/api?username=DogGang&show_icons=true&include_all_commits)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogGang&layout=compact)](https://github.com/DogGang/github-readme-stats)
 
-  <h3>2019<h3>
+<h2>Activity</h2>
+<h3>2019</h3>
 🏫 한림대학교 소프트웨어융합대학 입학.<br>
 💂‍♂️ 171 학군단 ROTC 사전 합격.<br>
 🖥️ 소프트웨어융합대학 학술동아리 씨애랑 입부.<br>
 🎸 밴드 중앙동아리 CODA 입부.<br>
+🎸 CODA 우수동아리 경진대회 은상<br>
 
   <h3>2020</h3>
 💂‍♂️ 기초군사훈련 수료.<br>
-🎸 밴드 중앙동아리 CODA 서기.<br>
+🎸 밴드 중앙동아리 CODA 서기 & 베이스 파트장.<br>
+🎸 CODA 우수동아리 경진대회 동상<br>
 
   <h3>2021</h3>
 💂‍♂️ 171 학군단 입단 & 상반기 2중대장 후보생 & 하반기 인사과장 후보생. <br>
 💂‍♂️ 하계 전투지휘자 훈련 수료.<br>
 🎸 밴드 중앙동아리 CODA 부회장 & 회장.<br>
+🎸 CODA 우수동아리 경진대회 동상<br>
 🥈 씨애랑 소프트웨어전시회 2등.<br>
 
   <h3>2022</h3>
