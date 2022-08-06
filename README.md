@@ -3,6 +3,7 @@
 
 <h1>Hi, I am studying Front-End.</h1>
 <h2>How to reach me</h2>
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(rlaehgusqp@gmail.com)</br>
 ![Instagram](https://img.shields.io/badge/dh_d0hyun-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/s_zzz.ko/)</br>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) `KakaoTalk_ID: rlaehgusqp`</br>
