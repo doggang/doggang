@@ -30,5 +30,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoggang&count_bg=%2379C83D&title_bg=%233F3939&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![DogGang's github stats](https://github-readme-stats.vercel.app/api?username=DogGang&show_icons=true&include_all_commits)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogGang&layout=compact)](https://github.com/DogGang/github-readme-stats)
 
