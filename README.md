@@ -8,6 +8,7 @@
 ![Instagram](https://img.shields.io/badge/dh_d0hyun-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)`(https://www.instagram.com/dh_d0hyun/)`</br>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) `KakaoTalk_ID: rlaehgusqp`</br>
 
+<div align=center><h1><a href="https://velog.io/@doggang/posts">🪖My Velog</a></h1></div>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <h3>🚀 Most used tech 🚀</h3>
