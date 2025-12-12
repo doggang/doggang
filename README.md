@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DogGang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20my%20github%20:%29&descAlignY=57&descAlign=62)
 <br>
 
-<h1>Hi, I'm little front-end developer.</h1>
+<h1>Hi, I'm DogGang</h1>
 <h2>How to reach me</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)`(rlaehgusqp@gmail.com)`</br>
